@@ -76,7 +76,9 @@ Member of Ewha PEACE BUDDY (2014/12/30-2015/12/18)
 ### Education
 
 2014- Ewha Womans University Undergraduate
+
       Major. English Education
+      
       Double Major. Political Science & International relations
 
 2016 Feb-Aug. Exchange student in TU Darmstadt, Germany
