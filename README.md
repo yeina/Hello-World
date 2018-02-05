@@ -89,23 +89,28 @@ Member of Ewha PEACE BUDDY (2014/12/30-2015/12/18)
 
 "THE Grand Talent Award" in the E3 Credit Extracurricular Experience Essay Contest held in Ewha Womans University (5th, Jan)
 
-The Finalist award in the 3rd KIDA Pro-Am English Debate Tournament
+The Finalist award in the 3rd KIDA Pro-Am English Debate Tournament (16th-17th, Jan)
 
 ### Skills
 
-# Proficient in global communication
+**Proficient in global communication**
 
 English: IELTS 8.0/9.0, TOEIC 965/990
+
 Korean: Native
+
 German: Basic
 
-# Proficient in dealing with Microsoft Office programs
+**Proficient in dealing with Microsoft Office programs**
 
 Earned Microsoft Office Specialist(MOS) Master certificate 
 
 MS Powerpoint 2013 Core (2017/11/18)
+
 MS Word 2013 Core (2018/01/21)
+
 MS Excel 2013 Expert Part 1 (2018/02/04)
+
 MS Excel 2013 Expert Part 2 (2018/02/13)
 
 
