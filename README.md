@@ -28,16 +28,24 @@ Syntax highlighted code block
 ### Experience
 
 **2018**
+
 Won "THE Grand Talent Award" in the E3 Credit Extracurricular Experience Essay Contest held in Ewha Womans University (5th, Jan)
+
 Simulated a startup business development in "Venture Academy" conducted by Simulative Education Program(SEP) Consulting firm and Ewha Womans University (25th-30th, Jan)
+
 Participated in "the 48th Foreign Affairs Workshop for Undergraduates" administered by Korea National Diplomatic Academy(KNDA) (19th-23rd, Feb)
 
 **2017**
 
 
 **2016**
+
+
 **2015**
+
+
 **2014**
+
 
 ### Education
 ### Skills
