@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
+## Hello World, I'm Yein Kim with immense potential
 
 You can use the [editor on GitHub](https://github.com/yeina/yeina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Profile
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Name. Yein Kim
+# Birth. 1995/10/26
+# E-Mail. profyein@gmail.com
+# Address. Gimpo-si, Gyeonggido, Republic of Korea
 
 - Bulleted
 - List
@@ -26,7 +25,24 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Experience
+
+**2018**
+Won "THE Grand Talent Award" in the E3 Credit Extracurricular Experience Essay Contest held in Ewha Womans University (5th, Jan)
+Simulated a startup business development in "Venture Academy" conducted by Simulative Education Program(SEP) Consulting firm and Ewha Womans University (25th-30th, Jan)
+Participated in "the 48th Foreign Affairs Workshop for Undergraduates" administered by Korea National Diplomatic Academy(KNDA) (19th-23rd, Feb)
+
+**2017**
+
+
+**2016**
+**2015**
+**2014**
+
+### Education
+### Skills
+
+
 
 ### Jekyll Themes
 
