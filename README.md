@@ -1,19 +1,3 @@
-<html>
-  <head>
-    <title>My Homepage</title>
-  </head>
-  
-  
-  <body>
-    <h1>My homepage!</h1>
-  
-    <h2>
-      ;)
-    </h2>
-    
-  </body>
-
-
 ## Hello World, I'm Yein Kim with immense potential
 
 You can use the [editor on GitHub](https://github.com/yeina/yeina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -147,4 +131,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-</html>
