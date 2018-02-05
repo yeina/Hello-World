@@ -37,7 +37,7 @@ Discussed global issues and developed skills of communication in international c
 
 Debater in the Taiwan Debate Open held in National Chengchi University (20th-22nd, May)
 
-Delegate in ADB Youth Initiative program, Asia Pacific Youth Exchange(APYE) (11th-22nd, July)
+Delegate in the Asian Development Bank(ADB) Youth Initiative program, Asia Pacific Youth Exchange(APYE) (11th-22nd, July)
 
 English tutoring for the North Korean immigrant as a member of NGO PSCORE volunteer (8th, Sep-29th, Dec)
 
@@ -61,8 +61,29 @@ Volunteer tutoring in Kumpa middle school (5th, Sep-19th, Dec)
 
 **2014**
 
+An actress and staff in English Acting Club "UNI" under the department of English Education in Ewha Womans University (2014/03/04-2016/01/15)
+
+Volunteer tutoring in Kumpa middle school (28th, July-1st, Aug)
+
+Volunteer tutoring in Keumlan middle school (5th, Sep-22nd, Dec)
+
+Volunteer staff for the recruitment fair of International Financial Institutions (Nov, 10th)
+
+Member of Ewha Studies of International Politics(ESIP) under the department of Political science & International relations (9th, March-18th, Dec)
+
+Member of Ewha PEACE BUDDY (2014/12/30-2015/12/18)
 
 ### Education
+
+2014- Ewha Womans University Undergraduate
+      Major. English Education
+      Double Major. Political Science & International relations
+
+2016 Feb-Aug. Exchange student in TU Darmstadt, Germany
+
+2011-2014. Gimpo Highschool
+
+2011 Aug. Exchange student in Sandy Spring Friends School, the US
 
 ### Awards
 
@@ -70,9 +91,22 @@ Volunteer tutoring in Kumpa middle school (5th, Sep-19th, Dec)
 
 The Finalist award in the 3rd KIDA Pro-Am English Debate Tournament
 
-
-
 ### Skills
+
+# Proficient in global communication
+
+English: IELTS 8.0/9.0, TOEIC 965/990
+Korean: Native
+German: Basic
+
+# Proficient in dealing with Microsoft Office programs
+
+Earned Microsoft Office Specialist(MOS) Master certificate 
+
+MS Powerpoint 2013 Core (2017/11/18)
+MS Word 2013 Core (2018/01/21)
+MS Excel 2013 Expert Part 1 (2018/02/04)
+MS Excel 2013 Expert Part 2 (2018/02/13)
 
 
 ### Portfolio
@@ -86,6 +120,6 @@ The Finalist award in the 3rd KIDA Pro-Am English Debate Tournament
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yeina/yeina.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
